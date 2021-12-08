@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "late_bound_arguments"
-version = "0.1.1"
+version = "0.1.2"
 description = "Allows evaluating default arguments at function-call time"
 readme = "README.md"
 authors = ["Shakya Majumdar <shakyamajumdar1@gmail.com>"]
+repository = "https://github.com/ShakyaMajumdar/late_bound_arguments"
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.10"
